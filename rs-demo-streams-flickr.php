@@ -73,7 +73,7 @@ $photos = $flickr->get_public_photos($user_id,15);
 		}
 
 		.demos-filter li a:hover,
-		.demos-filter li.activeFilter a { color: #1ABC9C; }
+		.demos-filter li.activeFilter a { color: #064483; }
 
 		@media (max-width: 991px) {
 			.demos-filter { text-align: center; }
