@@ -99,7 +99,7 @@
 }
 
 @media (min-width: 768px) {
-	.container { max-width: 750px; }
+	.container { max-width: 720px; }
 }
 
 @media (min-width: 992px) {
@@ -3518,6 +3518,12 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 .content-wrap {
 	position: relative;
 	padding: 80px 0;
+}
+
+/*Add custom .content-wrap by Sahban*/
+.content-wrap-custom {
+	position: relative;
+    padding: 0 80px 0 0;
 }
 
 #content .container { position: relative; }
