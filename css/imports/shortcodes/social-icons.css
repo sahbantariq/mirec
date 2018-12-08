@@ -187,7 +187,7 @@ body:not(.device-touch) .social-icon i {
 .si-cc:hover,
 .si-colored.si-cc { background-color: #688527 !important; }
 .si-dribbble:hover,
-.si-colored.si-dribbble { background-color: #EA4C89 !important; }
+.si-colored.si-dribbble { background-color: #0E76A8 !important; }
 .si-evernote:hover,
 .si-colored.si-evernote { background-color: #5BA525 !important; }
 .si-flickr:hover,
@@ -322,7 +322,7 @@ body:not(.device-touch) .social-icon i {
 .si-text-color.si-reddit i { color: #C6C6C6; }
 .si-text-color.si-blogger i { color: #FC4F08; }
 .si-text-color.si-cc i { color: #688527; }
-.si-text-color.si-dribbble i { color: #EA4C89; }
+.si-text-color.si-dribbble i { color: #0E76A8; }
 .si-text-color.si-evernote i { color: #5BA525; }
 .si-text-color.si-flickr i { color: #FF0084; }
 .si-text-color.si-google i { color: #DD4B39; }
