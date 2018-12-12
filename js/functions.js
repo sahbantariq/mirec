@@ -3092,7 +3092,7 @@ var SEMICOLON = SEMICOLON || {};
 				notifyCloseButton = notifyElement.attr('data-notify-close');
 
 			if( !notifyPosition ) { notifyPosition = 'toast-top-right'; } else { notifyPosition = 'toast-' + notifyElement.attr('data-notify-position'); }
-			if( !notifyMsg ) { notifyMsg = 'Thank you for showing interest!'; }
+			if( !notifyMsg ) { notifyMsg = 'Thank you for registering with us! We will get in touch with you soon.'; }
 			if( !notifyTimeout ) { notifyTimeout = 5000; }
 			if( notifyCloseButton == 'true' ) { notifyCloseButton = true; } else { notifyCloseButton = false; }
 
